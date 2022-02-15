@@ -1,1 +1,1 @@
-Java-misc
+Soubor jednoduchých java programů.
